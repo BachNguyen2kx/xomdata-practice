@@ -1,0 +1,18 @@
+-- Xom Data · Customer spending per order
+-- Problem: https://xomdata.com/practice/medium-join-001
+-- Solved: 2026-08-24
+
+select
+    c.full_name,
+    count(o.id) as order_count,
+    coalesce(sum(o.total_amount), 0) as total_spending,
+    coalesce(round(avg(o.total_amount), 0), 0) as avg_order_value,
+    row_number() over (
+        order by coalesce(sum(o.total_amount), 0) desc,
+                 c.full_name asc
+    ) as spending_rank
+from customers c
+left join orders o
+    on c.id = o.customer_id
+group by c.id, c.full_name
+order by total_spending DESC
