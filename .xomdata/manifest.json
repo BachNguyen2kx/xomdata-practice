@@ -1,1 +1,24 @@
-{}
+{
+  "practice/sql/easy/easy-where-010/solution.sql": "a4262a65d8927cf6a9445ee5b59fff01762c0166ee85a19eee2bc93cd839f2bb",
+  "practice/sql/easy/easy-distinct-008/solution.sql": "9e21a53eb5cca615f52c996b0ba6e895013e3c1a0629a7db548250cd7ac1bac4",
+  "practice/sql/medium/medium-lag-004/solution.sql": "622680493dd57a04cb52e7983bfd308aad3f3160e42cc35aae6d514028f9ed6d",
+  "practice/sql/easy/easy-isnull-002/solution.sql": "3b898fc6c40f0bf27c0798d2d292d09c10d91a1a904cf66efd1b783290009b6c",
+  "practice/sql/easy/easy-like-001/solution.sql": "6ed0ef00c274ff26d09081fd5ffd86c6defd2a4aabba3de8439aec75a3873736",
+  "practice/sql/easy/easy-where-020/solution.sql": "0767a29e095045ced53b51d60677ae74f85718f1529a9232c84bc47be6b46fc7",
+  "practice/sql/easy/easy-where-023/solution.sql": "26d54a1ceb3e850b08dc1981587b11541eee93b551f5c6f698e5716aca457073",
+  "practice/sql/easy/easy-select-001/solution.sql": "5d9327e582b8a2af55aae7e0c02a079ae684cd983eeed6957080bc62a4cb279d",
+  "practice/sql/easy/easy-select-002/solution.sql": "ec7578ec15b13a7d3c6e00971d7a1b37729daf86a3ac275109cc74c13f43a573",
+  "practice/sql/medium/medium-rownum-003/solution.sql": "1e4811af91fc4955552affb83f41bfa4aef8dd9488f5970b123b8976c8e73dd1",
+  "practice/sql/easy/easy-limit-001/solution.sql": "44c55d434a803fdf70dafea8bd83773d009525bc2dacd55df2b86778afd1de3d",
+  "practice/sql/easy/easy-limit-002/solution.sql": "29c18902884b153ff4d3948b94b675af3fa0b2b9354a0a6a466cd2115e7336be",
+  "practice/sql/easy/easy-limit-004/solution.sql": "99bdf3812adc4225188776917558917660e7961b3eb009015cbfb5edfa9239ae",
+  "practice/sql/medium/medium-churn-006/solution.sql": "19b8e50fac0ebe0436dc6881e6b6458329f92d5199aa069b5898d21efa9d68dd",
+  "practice/python/easy/py-palindrome/solution.py": "2caac19996c7f16ae1c373c3ccd4c9c2e4e72af4b9771ec3d2d0008b442a3170",
+  "practice/sql/easy/easy-where-001/solution.sql": "4151fe0d0bdcc339e3d320c39046011819b743d8e8118d7339cae47a588cad25",
+  "practice/sql/easy/easy-count-001/solution.sql": "10ccb06e9d9818f54c2e30cb6c17a17d6bedbbdb2caa66b1b86abaf4a5048272",
+  "practice/sql/medium/medium-join-001/solution.sql": "ac27ff98105991d6281b77e09e5b934c9599e9acdae9399cb7c713891230544e",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "3034beaf288e4d7a99b0a0626feb4b85e2fd93d4fad46ade839a9f684465e2c3",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "fe788fbdb1accfee3e233380505e9f97b5cd6eadf866951fb62e915fdc2c299d",
+  "practice/sql/easy/easy-sum-001/solution.sql": "b8f9ba848847ff8ffef6310bb50c57f1713132c0beb7dd8ac62b0600db84e270",
+  "practice/sql/easy/easy-avg-001/solution.sql": "6c7946853f43ff489690d7dc8e7f49ec3ddd94fd73a20a330ff8661c863b33c9"
+}
