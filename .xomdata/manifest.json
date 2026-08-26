@@ -25,5 +25,11 @@
   "practice/sql/easy/easy-minmax-001/solution.sql": "918590acf03fbbd974397109ac99ea23bd86d901a62db85f17c86f5a83a79763",
   "practice/sql/easy/easy-case-002/solution.sql": "48ecffb5496c393ea6789e0f5b164a8d8723e082f3f5daa2a0fb25ca608d36eb",
   "practice/sql/easy/easy-sum-003/solution.sql": "f2fd3cb3f23a0671bceb321a4f2c34f57faf38d10f14f2d547e75c02ad416db7",
-  "practice/sql/easy/easy-sum-004/solution.sql": "d1ee6e10424464d7a95a8a891df86ca34b0bb172cab00d50b2f14d7dee3417db"
+  "practice/sql/easy/easy-sum-004/solution.sql": "d1ee6e10424464d7a95a8a891df86ca34b0bb172cab00d50b2f14d7dee3417db",
+  "practice/sql/medium/medium-monetary-004/solution.sql": "ec32c2dc87a75361325f51c8c9ee44d82c0bfd271a7820169c2d1e1b7a543f6b",
+  "practice/sql/easy/easy-select-005/solution.sql": "6c9fada2ba75930513e12f2f515e1a0cef9b20b6215b7d94d27844addd16d17c",
+  "practice/sql/easy/easy-max-001/solution.sql": "849e93aafd1f9eb642c79144cd9faa9ba8add7458172be379b49bf9d8b1c5d7d",
+  "practice/python/medium/py-reverse-words/solution.py": "103734c1bb112652253cb020b252bf3487a19013695d8850ae289660577ebed8",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "9fd5348cf89738d31c3de72fbc1b95226cb3d6f259f844a698722f4aaf2a92e0",
+  "practice/sql/easy/easy-where-008/solution.sql": "e963d5e70129d0bba84bf04d759f20114a0dadf3bb2ccfcca9ecab618baa2ee7"
 }
