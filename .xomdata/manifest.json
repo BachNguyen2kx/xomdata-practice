@@ -31,5 +31,13 @@
   "practice/sql/easy/easy-max-001/solution.sql": "849e93aafd1f9eb642c79144cd9faa9ba8add7458172be379b49bf9d8b1c5d7d",
   "practice/python/medium/py-reverse-words/solution.py": "103734c1bb112652253cb020b252bf3487a19013695d8850ae289660577ebed8",
   "practice/sql/medium/medium-groupby-027/solution.sql": "9fd5348cf89738d31c3de72fbc1b95226cb3d6f259f844a698722f4aaf2a92e0",
-  "practice/sql/easy/easy-where-008/solution.sql": "e963d5e70129d0bba84bf04d759f20114a0dadf3bb2ccfcca9ecab618baa2ee7"
+  "practice/sql/easy/easy-where-008/solution.sql": "e963d5e70129d0bba84bf04d759f20114a0dadf3bb2ccfcca9ecab618baa2ee7",
+  "practice/python/medium/py-is-prime/solution.py": "fc2bd263585f50bb6f83c91cdcc79902f195720d18ba70f7f597c00e983177b6",
+  "practice/python/easy/py-rectangle-area/solution.py": "a1a6ad12ed2d70718c0c18ad20070de149d0f08e859f3fa2449758c668b4ca54",
+  "practice/python/easy/py-reverse-code/solution.py": "8d50e8d6b28a5380ca565627c74b01dae3d89c3ac16b26744e1c2b6e022c0424",
+  "practice/python/easy/py-reverse-order/solution.py": "646805cee040ae586df0dc266069bedfcfee38b6d9b25b24a43a0c75b5b772a6",
+  "practice/python/easy/py-discount/solution.py": "da51dfe521e18fb9b156e7279383a66f7947008cdcfd8e66b5d4731284a1df49",
+  "practice/python/easy/py-number-sign/solution.py": "fe0e34ebb60449cf5e510bd6f187aea01d65460b5e08f9acd481995869d12fb7",
+  "practice/python/easy/py-grade-letter/solution.py": "2dd5b5ec1b211ef3cf270c2cc707c274177ac2ef78d5969b2b31baf15cf89955",
+  "practice/python/medium/py-word-frequency/solution.py": "e65f14580f1b039d3d44cc6bd30b6da0901a9175ca0ec7a9180ad10547e9c8e7"
 }

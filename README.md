@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**33** problems solved on [Xom Data](https://xomdata.com/practice).
+**41** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 1 | 1 | 0 | 0 | 2 |
+| Python | 7 | 3 | 0 | 0 | 10 |
 | SQL | 24 | 7 | 0 | 0 | 31 |
 
 **Recently solved**
 
+- [py-word-frequency](https://xomdata.com/practice/py-word-frequency) · Medium · 2026-08-26
+- [py-grade-letter](https://xomdata.com/practice/py-grade-letter) · Easy · 2026-08-26
+- [py-number-sign](https://xomdata.com/practice/py-number-sign) · Easy · 2026-08-26
+- [py-discount](https://xomdata.com/practice/py-discount) · Easy · 2026-08-26
+- [py-reverse-order](https://xomdata.com/practice/py-reverse-order) · Easy · 2026-08-26
+- [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-08-26
+- [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-08-26
+- [py-is-prime](https://xomdata.com/practice/py-is-prime) · Medium · 2026-08-26
 - [easy-where-008](https://xomdata.com/practice/easy-where-008) · Easy · 2026-08-26
 - [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-08-26
-- [py-reverse-words](https://xomdata.com/practice/py-reverse-words) · Medium · 2026-08-26
-- [easy-max-001](https://xomdata.com/practice/easy-max-001) · Easy · 2026-08-26
-- [easy-select-005](https://xomdata.com/practice/easy-select-005) · Easy · 2026-08-26
-- [medium-monetary-004](https://xomdata.com/practice/medium-monetary-004) · Medium · 2026-08-25
-- [easy-sum-004](https://xomdata.com/practice/easy-sum-004) · Easy · 2026-08-25
-- [easy-sum-003](https://xomdata.com/practice/easy-sum-003) · Easy · 2026-08-25
-- [easy-case-002](https://xomdata.com/practice/easy-case-002) · Easy · 2026-08-25
-- [easy-minmax-001](https://xomdata.com/practice/easy-minmax-001) · Easy · 2026-08-25
 
-_Synced 33 solutions · last update 2026-08-26_
+_Synced 41 solutions · last update 2026-08-26_
 
 <!-- xomdata:stats:end -->
 
