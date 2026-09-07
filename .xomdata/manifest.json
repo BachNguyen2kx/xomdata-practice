@@ -39,5 +39,16 @@
   "practice/python/easy/py-discount/solution.py": "da51dfe521e18fb9b156e7279383a66f7947008cdcfd8e66b5d4731284a1df49",
   "practice/python/easy/py-number-sign/solution.py": "fe0e34ebb60449cf5e510bd6f187aea01d65460b5e08f9acd481995869d12fb7",
   "practice/python/easy/py-grade-letter/solution.py": "2dd5b5ec1b211ef3cf270c2cc707c274177ac2ef78d5969b2b31baf15cf89955",
-  "practice/python/medium/py-word-frequency/solution.py": "e65f14580f1b039d3d44cc6bd30b6da0901a9175ca0ec7a9180ad10547e9c8e7"
+  "practice/python/medium/py-word-frequency/solution.py": "e65f14580f1b039d3d44cc6bd30b6da0901a9175ca0ec7a9180ad10547e9c8e7",
+  "practice/python/easy/py-sum-positive/solution.py": "b34a2c367a02e60d15ebc39b94f0806e0e6a90b3dd3ea5017841d18aa026ce6b",
+  "practice/python/easy/py-max-price/solution.py": "cf5a4655415ff9ca68b59633dd5f9862b4ef9cd75e907d4f82af30145928cbfc",
+  "practice/python/easy/py-vowels/solution.py": "1cd8eac62144211b30b2fa4579baa2f4821a1d4d1a9edbb8bb9688db0e7ab42e",
+  "practice/python/easy/py-word-count/solution.py": "f8600c583da7975eb10cffce667ce43124ad937008e245ddb67e9fb59c8920bf",
+  "practice/python/easy/py-most-frequent/solution.py": "6df3606dab346e9ab7d5729b39fdd9411c0ecc22f058c2058bc6a7e449184d7b",
+  "practice/python/easy/py-join-parts/solution.py": "eb8168a906d5782ecbf0740b136839dc8fc6f020e89768b3a8c0cc872d53f92a",
+  "practice/python/medium/py-fizzbuzz/solution.py": "7313742010b0e690c7be54c786d80e4f19d56f2ec8b64664d34a8c685a07b4ef",
+  "practice/python/medium/py-group-category/solution.py": "c52423b255ae7cb2b8d80aa2b281498db30ecb544f00c48102c5455071325f89",
+  "practice/python/medium/py-balanced-brackets/solution.py": "67575be34de59eaf557c793213c5fc9cbecdd4ff094c2335e0d1a6537de400d8",
+  "practice/python/medium/py-second-largest/solution.py": "d7199e5823dacc411e0c2b3f83096ac577c515a5aa81f480a8398b0d54371a44",
+  "practice/python/medium/py-top-k/solution.py": "063f69e756feb4e5c5fd6fafec119da496c8b6243214c1a96893f5b37dec8148"
 }

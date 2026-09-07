@@ -4,27 +4,27 @@ Solutions I wrote while practicing SQL and Python on [Xom Data](https://xomdata.
 
 <!-- xomdata:stats:start -->
 
-**41** problems solved on [Xom Data](https://xomdata.com/practice).
+**52** problems solved on [Xom Data](https://xomdata.com/practice).
 
 | Topic | &nbsp;&nbsp;&nbsp;Easy&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;Medium&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Hard&nbsp;&nbsp;&nbsp; | Nightmare | &nbsp;&nbsp;Total&nbsp;&nbsp; |
 |---|:---:|:---:|:---:|:---:|:---:|
-| Python | 7 | 3 | 0 | 0 | 10 |
+| Python | 13 | 8 | 0 | 0 | 21 |
 | SQL | 24 | 7 | 0 | 0 | 31 |
 
 **Recently solved**
 
-- [py-word-frequency](https://xomdata.com/practice/py-word-frequency) · Medium · 2026-08-26
-- [py-grade-letter](https://xomdata.com/practice/py-grade-letter) · Easy · 2026-08-26
-- [py-number-sign](https://xomdata.com/practice/py-number-sign) · Easy · 2026-08-26
-- [py-discount](https://xomdata.com/practice/py-discount) · Easy · 2026-08-26
-- [py-reverse-order](https://xomdata.com/practice/py-reverse-order) · Easy · 2026-08-26
-- [py-reverse-code](https://xomdata.com/practice/py-reverse-code) · Easy · 2026-08-26
-- [py-rectangle-area](https://xomdata.com/practice/py-rectangle-area) · Easy · 2026-08-26
-- [py-is-prime](https://xomdata.com/practice/py-is-prime) · Medium · 2026-08-26
-- [easy-where-008](https://xomdata.com/practice/easy-where-008) · Easy · 2026-08-26
-- [medium-groupby-027](https://xomdata.com/practice/medium-groupby-027) · Medium · 2026-08-26
+- [py-top-k](https://xomdata.com/practice/py-top-k) · Medium · 2026-09-07
+- [py-second-largest](https://xomdata.com/practice/py-second-largest) · Medium · 2026-09-07
+- [py-balanced-brackets](https://xomdata.com/practice/py-balanced-brackets) · Medium · 2026-09-07
+- [py-group-category](https://xomdata.com/practice/py-group-category) · Medium · 2026-08-29
+- [py-fizzbuzz](https://xomdata.com/practice/py-fizzbuzz) · Medium · 2026-08-29
+- [py-join-parts](https://xomdata.com/practice/py-join-parts) · Easy · 2026-08-27
+- [py-most-frequent](https://xomdata.com/practice/py-most-frequent) · Easy · 2026-08-27
+- [py-word-count](https://xomdata.com/practice/py-word-count) · Easy · 2026-08-27
+- [py-vowels](https://xomdata.com/practice/py-vowels) · Easy · 2026-08-26
+- [py-max-price](https://xomdata.com/practice/py-max-price) · Easy · 2026-08-26
 
-_Synced 41 solutions · last update 2026-08-26_
+_Synced 52 solutions · last update 2026-09-07_
 
 <!-- xomdata:stats:end -->
 
